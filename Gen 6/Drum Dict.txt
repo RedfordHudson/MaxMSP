@@ -1,0 +1,44 @@
+{
+	"A" : 	{
+		"enabled" : 0,
+		"type" : 0,
+		"frequency" : 1,
+		"offset" : 0
+	}
+,
+	"B" : 	{
+		"enabled" : 0,
+		"type" : 0,
+		"frequency" : 1,
+		"offset" : 1
+	}
+,
+	"C" : 	{
+		"enabled" : 0,
+		"type" : 0,
+		"frequency" : 1,
+		"offset" : 3
+	}
+,
+	"D" : 	{
+		"enabled" : 0,
+		"type" : 1,
+		"frequency" : 1,
+		"offset" : 2
+	}
+,
+	"E" : 	{
+		"enabled" : 0,
+		"type" : 2,
+		"frequency" : 2,
+		"offset" : 0
+	}
+,
+	"F" : 	{
+		"enabled" : 0,
+		"type" : 2,
+		"frequency" : 4,
+		"offset" : 0
+	}
+
+}
